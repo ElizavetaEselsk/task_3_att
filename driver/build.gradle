@@ -1,0 +1,16 @@
+
+dependencies {
+    implementation project(path: ':DB')
+    implementation project(path: ':model')
+    implementation project(path: ':console_matcher')
+    implementation project(path: ':deserialize')
+    implementation project(path: ':serialize')
+    implementation project(path: ':generator')
+    implementation project(path: ':servlests')
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}

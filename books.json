@@ -1,0 +1,206 @@
+[ {
+  "bookId" : 1000,
+  "name" : "Name_-1148230235",
+  "author" : {
+    "authorId" : 10000,
+    "bookId" : 1000,
+    "name" : "Name_-95162985",
+    "nativeLanguage" : "FRENCH",
+    "age" : 23
+  },
+  "interpreters" : {
+    "interpreterId" : 1000,
+    "bookId" : 100000,
+    "name" : "Name_690633315",
+    "age" : 25,
+    "workingLanguage" : "FRENCH"
+  },
+  "publisher" : {
+    "publisherId" : 1000000,
+    "bookId" : 1000,
+    "name" : "SimonAndSchuster"
+  },
+  "readers" : [ {
+    "readerId" : 1001,
+    "bookId" : 1000,
+    "name" : "Name_-1617075995",
+    "age" : 31,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "readerId" : 1002,
+    "bookId" : 1000,
+    "name" : "Name_-1103949869",
+    "age" : 77,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "readerId" : 1003,
+    "bookId" : 1000,
+    "name" : "Name_979360146",
+    "age" : 25,
+    "nativeLanguage" : "ITALIAN"
+  } ]
+}, {
+  "bookId" : 2000,
+  "name" : "Name_-1404658456",
+  "author" : {
+    "authorId" : 20000,
+    "bookId" : 2000,
+    "name" : "Name_877069656",
+    "nativeLanguage" : "SPANISH",
+    "age" : 74
+  },
+  "interpreters" : {
+    "interpreterId" : 2000,
+    "bookId" : 200000,
+    "name" : "Name_-862951689",
+    "age" : 60,
+    "workingLanguage" : "SPANISH"
+  },
+  "publisher" : {
+    "publisherId" : 2000000,
+    "bookId" : 2000,
+    "name" : "AST"
+  },
+  "readers" : [ {
+    "readerId" : 2001,
+    "bookId" : 2000,
+    "name" : "Name_-566801484",
+    "age" : 50,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "readerId" : 2002,
+    "bookId" : 2000,
+    "name" : "Name_-1897502752",
+    "age" : 60,
+    "nativeLanguage" : "RUSSIAN"
+  }, {
+    "readerId" : 2003,
+    "bookId" : 2000,
+    "name" : "Name_-135910436",
+    "age" : 38,
+    "nativeLanguage" : "FRENCH"
+  } ]
+}, {
+  "bookId" : 3000,
+  "name" : "Name_-662652264",
+  "author" : {
+    "authorId" : 30000,
+    "bookId" : 3000,
+    "name" : "Name_941483686",
+    "nativeLanguage" : "RUSSIAN",
+    "age" : 53
+  },
+  "interpreters" : {
+    "interpreterId" : 3000,
+    "bookId" : 300000,
+    "name" : "Name_-690928351",
+    "age" : 72,
+    "workingLanguage" : "ITALIAN"
+  },
+  "publisher" : {
+    "publisherId" : 3000000,
+    "bookId" : 3000,
+    "name" : "EKSMO"
+  },
+  "readers" : [ {
+    "readerId" : 3001,
+    "bookId" : 3000,
+    "name" : "Name_1404792031",
+    "age" : 37,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "readerId" : 3002,
+    "bookId" : 3000,
+    "name" : "Name_521122332",
+    "age" : 78,
+    "nativeLanguage" : "ENGLISH"
+  }, {
+    "readerId" : 3003,
+    "bookId" : 3000,
+    "name" : "Name_2064155433",
+    "age" : 72,
+    "nativeLanguage" : "FRENCH"
+  } ]
+}, {
+  "bookId" : 4000,
+  "name" : "Name_113995451",
+  "author" : {
+    "authorId" : 40000,
+    "bookId" : 4000,
+    "name" : "Name_-364405740",
+    "nativeLanguage" : "SPANISH",
+    "age" : 34
+  },
+  "interpreters" : {
+    "interpreterId" : 4000,
+    "bookId" : 400000,
+    "name" : "Name_1524611679",
+    "age" : 67,
+    "workingLanguage" : "ITALIAN"
+  },
+  "publisher" : {
+    "publisherId" : 4000000,
+    "bookId" : 4000,
+    "name" : "EKSMO"
+  },
+  "readers" : [ {
+    "readerId" : 4001,
+    "bookId" : 4000,
+    "name" : "Name_-47795775",
+    "age" : 54,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "readerId" : 4002,
+    "bookId" : 4000,
+    "name" : "Name_491308745",
+    "age" : 56,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "readerId" : 4003,
+    "bookId" : 4000,
+    "name" : "Name_499065233",
+    "age" : 58,
+    "nativeLanguage" : "FRENCH"
+  } ]
+}, {
+  "bookId" : 5000,
+  "name" : "Name_-1663887985",
+  "author" : {
+    "authorId" : 50000,
+    "bookId" : 5000,
+    "name" : "Name_85680237",
+    "nativeLanguage" : "SPANISH",
+    "age" : 24
+  },
+  "interpreters" : {
+    "interpreterId" : 5000,
+    "bookId" : 500000,
+    "name" : "Name_340195550",
+    "age" : 27,
+    "workingLanguage" : "RUSSIAN"
+  },
+  "publisher" : {
+    "publisherId" : 5000000,
+    "bookId" : 5000,
+    "name" : "AZBUKA"
+  },
+  "readers" : [ {
+    "readerId" : 5001,
+    "bookId" : 5000,
+    "name" : "Name_71862320",
+    "age" : 45,
+    "nativeLanguage" : "FRENCH"
+  }, {
+    "readerId" : 5002,
+    "bookId" : 5000,
+    "name" : "Name_-2005843530",
+    "age" : 64,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "readerId" : 5003,
+    "bookId" : 5000,
+    "name" : "Name_-1016350844",
+    "age" : 77,
+    "nativeLanguage" : "ENGLISH"
+  } ]
+} ]

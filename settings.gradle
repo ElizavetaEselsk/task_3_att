@@ -1,0 +1,11 @@
+rootProject.name = 'Lisa_att_1__'
+include 'model'
+include 'driver'
+include 'generator'
+include 'deserialize'
+include 'serialize'
+include 'DB'
+include 'console_matcher'
+include 'driver'
+include 'servlests'
+
